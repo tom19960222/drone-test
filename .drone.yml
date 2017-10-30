@@ -1,0 +1,5 @@
+pipelines:
+  backend:
+    image: node:8
+    commands:
+      - echo done
