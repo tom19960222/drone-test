@@ -1,4 +1,4 @@
-pipelines:
+pipeline:
   backend:
     image: node:8
     commands:
